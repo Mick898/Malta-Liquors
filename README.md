@@ -6,6 +6,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Our Homemade Liquors</title>
+   <p>link for donations</p>
+<a href="url">revolut.me/michelk36</a>
   <style>
     body {
       font-family: Arial, sans-serif;
